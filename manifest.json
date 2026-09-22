@@ -1,9 +1,17 @@
 {
   "name": "LLMrunner",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "released": "2026-09-22",
-  "url": "https://github.com/Code-X86/LLMrunner/releases/download/v2.1.0/LLMrunner.bat",
-  "size": 637482,
-  "sha256": "faa11ad259f05996d86351b4baa30e2e55c56081c9df3cf28881baa0555dada4",
-  "notes": "First release with self-update. 570 models (up to 35B), AMD ROCm/CUDA/Vulkan/CPU backends, Python chat UI with web search, Context7 docs, sequential thinking and workspace file tools, KV cache setting."
+  "url": "https://github.com/Code-X86/LLMrunner/releases/download/v2.2.0/LLMrunner.bat",
+  "size": 197980,
+  "sha256": "4f3c99e3ad30d9b18d4f0296e24e20b8fc869868304d6d0b8c05b42881801eba",
+  "notes": "Smaller launcher: the model database now lives on GitHub instead of inside the .bat (189 KB, was 637 KB).",
+  "catalog": {
+    "version": "2026.09.22.0946",
+    "url": "https://raw.githubusercontent.com/Code-X86/LLMrunner/main/catalog.json",
+    "size": 447641,
+    "sha256": "98a69159cea26e4d954d2211ebfc2a21b4b957461060e6a0d841a37ef56027b2",
+    "count": 570,
+    "min_app": "2.2.0"
+  }
 }
