@@ -1,16 +1,16 @@
 {
-  "generated": "2.6.0",
+  "generated": "2.6.1",
   "app": {
-    "version": "2.6.0",
-    "url": "https://github.com/Code-X86/LLMrunner/releases/download/v2.6.0/LLMrunner.bat",
-    "size": 257602,
-    "sha256": "65c8ad644d8aab971e8c3cf57ba8a0878bb29a53a8f4accf7a335334ad76a8dc"
+    "version": "2.6.1",
+    "url": "https://github.com/Code-X86/LLMrunner/releases/download/v2.6.1/LLMrunner.bat",
+    "size": 258865,
+    "sha256": "f091449123e17ec79fe73e0ce77bf1f977eb61b5c15c38dba3bbb45938b469c8"
   },
   "catalog": {
     "version": "8595ad2ecf1f",
     "url": "https://raw.githubusercontent.com/Code-X86/LLMrunner/main/catalog.json",
     "size": 464391,
-    "sha256": "0de6afa36ed709b56f47dc50bb480140c4c4f269a2a48e6b376eb193d068d9f3",
+    "sha256": "924649fddc60d8272ba7a2da041e4c5bac8512c2ed8ec33a69cfc218a53f591c",
     "count": 588,
     "min_app": "2.2.0"
   },
@@ -41,7 +41,7 @@
       "build": "turboquant-8675075",
       "notes": "TurboQuant KV cache (turbo3/turbo4), gfx1201; older llama.cpp base - some new models need /llama official",
       "source": "llmrunner",
-      "url": "https://github.com/Code-X86/LLMrunner/releases/download/v2.6.0/llama-rocm-turboquant-8675075-win-x64.zip",
+      "url": "https://github.com/Code-X86/LLMrunner/releases/download/v2.6.1/llama-rocm-turboquant-8675075-win-x64.zip",
       "size": 88648137,
       "sha256": "7ef2ecc24d1c9b7b012c80168cd468a2d4ab8b506546b3696100329197083367"
     }

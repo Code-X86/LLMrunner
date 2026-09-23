@@ -1,16 +1,16 @@
 {
   "name": "LLMrunner",
-  "version": "2.6.0",
+  "version": "2.6.1",
   "released": "2026-09-23",
-  "url": "https://github.com/Code-X86/LLMrunner/releases/download/v2.6.0/LLMrunner.bat",
-  "size": 257602,
-  "sha256": "65c8ad644d8aab971e8c3cf57ba8a0878bb29a53a8f4accf7a335334ad76a8dc",
-  "notes": "A real PyTorch fallback: an engine that shares no code with llama.cpp, for machines where llama.cpp itself is the problem.",
+  "url": "https://github.com/Code-X86/LLMrunner/releases/download/v2.6.1/LLMrunner.bat",
+  "size": 258865,
+  "sha256": "f091449123e17ec79fe73e0ce77bf1f977eb61b5c15c38dba3bbb45938b469c8",
+  "notes": "The PyTorch backend now runs the GGUF files you already have, instead of re-downloading each model.",
   "catalog": {
     "version": "8595ad2ecf1f",
     "url": "https://raw.githubusercontent.com/Code-X86/LLMrunner/main/catalog.json",
     "size": 464391,
-    "sha256": "0de6afa36ed709b56f47dc50bb480140c4c4f269a2a48e6b376eb193d068d9f3",
+    "sha256": "924649fddc60d8272ba7a2da041e4c5bac8512c2ed8ec33a69cfc218a53f591c",
     "count": 588,
     "min_app": "2.2.0"
   }
