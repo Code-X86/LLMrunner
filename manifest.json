@@ -1,16 +1,16 @@
 {
   "name": "LLMrunner",
-  "version": "2.5.0",
+  "version": "2.6.0",
   "released": "2026-09-23",
-  "url": "https://github.com/Code-X86/LLMrunner/releases/download/v2.5.0/LLMrunner.bat",
-  "size": 240080,
-  "sha256": "8cd73884a2418e5d7f1a2d54c7e73d42051b0f3bb211acee785de3f77953f3cc",
-  "notes": "An emergency backend for machines where the llama.cpp binaries will not run at all.",
+  "url": "https://github.com/Code-X86/LLMrunner/releases/download/v2.6.0/LLMrunner.bat",
+  "size": 257602,
+  "sha256": "65c8ad644d8aab971e8c3cf57ba8a0878bb29a53a8f4accf7a335334ad76a8dc",
+  "notes": "A real PyTorch fallback: an engine that shares no code with llama.cpp, for machines where llama.cpp itself is the problem.",
   "catalog": {
     "version": "8595ad2ecf1f",
     "url": "https://raw.githubusercontent.com/Code-X86/LLMrunner/main/catalog.json",
     "size": 464391,
-    "sha256": "97be345b730fe5b84900f9d683f4c7b2e07a9ee817d75960cb5e4b4b67c09008",
+    "sha256": "0de6afa36ed709b56f47dc50bb480140c4c4f269a2a48e6b376eb193d068d9f3",
     "count": 588,
     "min_app": "2.2.0"
   }
