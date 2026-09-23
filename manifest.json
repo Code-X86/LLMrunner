@@ -1,17 +1,17 @@
 {
   "name": "LLMrunner",
-  "version": "2.3.3",
+  "version": "2.4.0",
   "released": "2026-09-22",
-  "url": "https://github.com/Code-X86/LLMrunner/releases/download/v2.3.3/LLMrunner.bat",
-  "size": 208718,
-  "sha256": "42a5241f932fccf2b44f34524276b9b0911418594e526f3d7a040f6424708875",
-  "notes": "Choose between this release's llama.cpp builds and the plain official ones - and fall back automatically.",
+  "url": "https://github.com/Code-X86/LLMrunner/releases/download/v2.4.0/LLMrunner.bat",
+  "size": 230209,
+  "sha256": "cf60f64b18d854e441acb46b3928f26e6869d549c2f3031a6fc98f9eba50b701",
+  "notes": "Two new diagnostic screens, and a llama.cpp self-test that checks every model you have downloaded.",
   "catalog": {
-    "version": "c5b9a81523b3",
+    "version": "8595ad2ecf1f",
     "url": "https://raw.githubusercontent.com/Code-X86/LLMrunner/main/catalog.json",
-    "size": 447638,
-    "sha256": "76db2b32b57076c2f0c1f64a17393c7b90d9b0ebcf20e0e25ffc12613179aa08",
-    "count": 570,
+    "size": 464391,
+    "sha256": "1ec51b359ca7e419acbfffdee6667d1fd833131f5da34f08df72fe274ca23e7f",
+    "count": 588,
     "min_app": "2.2.0"
   }
 }
