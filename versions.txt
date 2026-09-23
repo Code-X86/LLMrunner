@@ -1,7 +1,7 @@
-LLMrunner 2.3.0 - versions of every component
+LLMrunner 2.3.1 - versions of every component
 
-launcher      2.3.0            LLMrunner.bat (200 KB)
-catalog       2026.09.22.2027   570 models (437 KB)
+launcher      2.3.1            LLMrunner.bat (200 KB)
+catalog       2026.09.22.2031   570 models (437 KB)
 web search    0.7.0              duckduckgo-mcp-server
 llama.cpp cpu   b11115              official build (17 MB)
 llama.cpp cuda  b11115              official build (373 MB)

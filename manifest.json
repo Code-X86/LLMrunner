@@ -1,16 +1,16 @@
 {
   "name": "LLMrunner",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "released": "2026-09-22",
-  "url": "https://github.com/Code-X86/LLMrunner/releases/download/v2.3.0/LLMrunner.bat",
-  "size": 205060,
-  "sha256": "303dc978bc718496296022bf0de0d49ac19a57a9f0c3225cc4be8e5fbf03e023",
+  "url": "https://github.com/Code-X86/LLMrunner/releases/download/v2.3.1/LLMrunner.bat",
+  "size": 205205,
+  "sha256": "2a961b320e3b875d6fa98c1a908bd402098b6046f10b9f0e86c0a8e1025c3b55",
   "notes": "Per-component updates, and a TurboQuant llama.cpp build for AMD.",
   "catalog": {
-    "version": "2026.09.22.2027",
+    "version": "2026.09.22.2031",
     "url": "https://raw.githubusercontent.com/Code-X86/LLMrunner/main/catalog.json",
     "size": 447641,
-    "sha256": "77e5baeaaf6d223862ff38acbc65a085edd265c4f0d7c0d586dcfb63d13a0bf8",
+    "sha256": "d2781647e109ea3ec1cd78272795c1f6e127e8671cdabeae94bd8bbbe40a7f46",
     "count": 570,
     "min_app": "2.2.0"
   }
