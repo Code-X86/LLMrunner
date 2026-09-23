@@ -1,16 +1,16 @@
 {
   "name": "LLMrunner",
-  "version": "2.3.1",
+  "version": "2.3.2",
   "released": "2026-09-22",
-  "url": "https://github.com/Code-X86/LLMrunner/releases/download/v2.3.1/LLMrunner.bat",
-  "size": 205205,
-  "sha256": "2a961b320e3b875d6fa98c1a908bd402098b6046f10b9f0e86c0a8e1025c3b55",
-  "notes": "Per-component updates, and a TurboQuant llama.cpp build for AMD.",
+  "url": "https://github.com/Code-X86/LLMrunner/releases/download/v2.3.2/LLMrunner.bat",
+  "size": 205515,
+  "sha256": "8b68482af231f29fd4e0d1f7d3a72d7ef9fd7d288ba98041997ba3db77793f3c",
+  "notes": "TurboQuant KV cache on every GPU backend, and a guard so it is never used where it cannot work.",
   "catalog": {
-    "version": "2026.09.22.2031",
+    "version": "2026.09.22.2302",
     "url": "https://raw.githubusercontent.com/Code-X86/LLMrunner/main/catalog.json",
     "size": 447641,
-    "sha256": "d2781647e109ea3ec1cd78272795c1f6e127e8671cdabeae94bd8bbbe40a7f46",
+    "sha256": "2c9001f10a174199d23c478a7d625878a048c80df2d1825bca64349c15a4b7f4",
     "count": 570,
     "min_app": "2.2.0"
   }
