@@ -23,11 +23,12 @@
       "source": "ggml-org"
     },
     "cuda": {
-      "build": "b11115",
-      "url": "https://github.com/ggml-org/llama.cpp/releases/download/b11115/cudart-llama-bin-win-cuda-12.4-x64.zip",
-      "size": 391443627,
-      "sha256": "8c79a9b226de4b3cacfd1f83d24f962d0773be79f1e7b75c6af4ded7e32ae1d6",
-      "source": "ggml-org"
+      "build": "turboquant-plus-v0.3.0-cuda12.4",
+      "notes": "TurboQuant Plus (turbo3/turbo4), community CUDA 12.4 build - not tested by us",
+      "source": "community",
+      "url": "https://github.com/TheTom/llama-cpp-turboquant/releases/download/tqp-v0.3.0/turboquant-plus-tqp-v0.3.0-windows-x64-cuda12.4.zip",
+      "size": 835899907,
+      "sha256": "e6b034e42ba4846a783cddd431ad0b9bd954b1b9a35b2db9ab67739bcb9fc0b3"
     },
     "vulkan": {
       "build": "b11115",

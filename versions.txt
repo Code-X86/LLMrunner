@@ -3,9 +3,9 @@ LLMrunner 2.3.1 - versions of every component
 launcher      2.3.1            LLMrunner.bat (200 KB)
 catalog       2026.09.22.2031   570 models (437 KB)
 web search    0.7.0              duckduckgo-mcp-server
-llama.cpp cpu   b11115              official build (17 MB)
-llama.cpp cuda  b11115              official build (373 MB)
-llama.cpp vulkanb11115              official build (30 MB)
-llama.cpp rocm  turboquant-8675075  TurboQuant KV cache (turbo3/turbo4), built for gfx1201 (84 MB)
+llama.cpp cpu    b11115                            official build (17 MB)
+llama.cpp cuda   turboquant-plus-v0.3.0-cuda12.4   TurboQuant Plus (turbo3/turbo4), community CUDA 12.4 build - not tested by us (797 MB)
+llama.cpp vulkan b11115                            official build (30 MB)
+llama.cpp rocm   turboquant-8675075                TurboQuant KV cache (turbo3/turbo4), built for gfx1201 (84 MB)
 
 Each piece is downloaded only when its version differs from what you have installed.
