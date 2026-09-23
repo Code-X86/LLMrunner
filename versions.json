@@ -7,10 +7,10 @@
     "sha256": "8b68482af231f29fd4e0d1f7d3a72d7ef9fd7d288ba98041997ba3db77793f3c"
   },
   "catalog": {
-    "version": "2026.09.22.2302",
+    "version": "c5b9a81523b3",
     "url": "https://raw.githubusercontent.com/Code-X86/LLMrunner/main/catalog.json",
-    "size": 447641,
-    "sha256": "2c9001f10a174199d23c478a7d625878a048c80df2d1825bca64349c15a4b7f4",
+    "size": 447638,
+    "sha256": "8e19e1c92c28b8183d2fbfc0fc677a8763689f6cf5ed2c2b60a5e984e20c52e7",
     "count": 570,
     "min_app": "2.2.0"
   },
@@ -31,12 +31,11 @@
       "sha256": "e6b034e42ba4846a783cddd431ad0b9bd954b1b9a35b2db9ab67739bcb9fc0b3"
     },
     "vulkan": {
-      "build": "turboquant-plus-57f6b93-vulkan",
-      "notes": "TurboQuant Plus (turbo3), tested on RX 9070 XT",
-      "source": "llmrunner",
-      "url": "https://github.com/Code-X86/LLMrunner/releases/download/v2.3.2/llama-vulkan-turboquant-plus-57f6b93-win-x64.zip",
-      "size": 37334254,
-      "sha256": "3b446b3233babd16f0f010299b184a4d5be7000b7d65739683e207c1c0591764"
+      "build": "b11115",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/download/b11115/llama-b11115-bin-win-vulkan-x64.zip",
+      "size": 31973078,
+      "sha256": "a9ffe9b9a97a3303f75a7ac56e2da76902981846dfdfa4b54d7fca7b89f2b0fc",
+      "source": "ggml-org"
     },
     "rocm": {
       "build": "turboquant-8675075",
