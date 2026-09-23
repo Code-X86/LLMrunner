@@ -1,16 +1,16 @@
 {
   "name": "LLMrunner",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "released": "2026-09-22",
-  "url": "https://github.com/Code-X86/LLMrunner/releases/download/v2.2.0/LLMrunner.bat",
-  "size": 197980,
-  "sha256": "4f3c99e3ad30d9b18d4f0296e24e20b8fc869868304d6d0b8c05b42881801eba",
-  "notes": "Smaller launcher: the model database now lives on GitHub instead of inside the .bat (189 KB, was 637 KB).",
+  "url": "https://github.com/Code-X86/LLMrunner/releases/download/v2.3.0/LLMrunner.bat",
+  "size": 205060,
+  "sha256": "303dc978bc718496296022bf0de0d49ac19a57a9f0c3225cc4be8e5fbf03e023",
+  "notes": "Per-component updates, and a TurboQuant llama.cpp build for AMD.",
   "catalog": {
-    "version": "2026.09.22.0946",
+    "version": "2026.09.22.2027",
     "url": "https://raw.githubusercontent.com/Code-X86/LLMrunner/main/catalog.json",
     "size": 447641,
-    "sha256": "98a69159cea26e4d954d2211ebfc2a21b4b957461060e6a0d841a37ef56027b2",
+    "sha256": "77e5baeaaf6d223862ff38acbc65a085edd265c4f0d7c0d586dcfb63d13a0bf8",
     "count": 570,
     "min_app": "2.2.0"
   }
